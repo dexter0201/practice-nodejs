@@ -22,4 +22,7 @@
  * By default the data you read from a stream is a "Buffer" object. If you are reading strings
  * this may not be suitable for you. So, you can set encoding on the stream by "Readable.setEncoding()"
  * as show above.
+ *
+ * In the above snipped we set the encoding to "utf8". As a result, the data is interpreted as utf8
+ * and passed to your callback as string.
  */
