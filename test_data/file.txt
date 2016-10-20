@@ -1,0 +1,10 @@
+Hello everyone!
+
+My name is Dexter. What's your name?
+
+How old are you?
+
+Please let me know if you have any questions.
+
+Thanks,
+Dexter Nguyen
