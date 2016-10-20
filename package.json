@@ -1,0 +1,10 @@
+{
+  "name": "practice-nodejs",
+  "author": {
+    "name": "Dexter Nguyen"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-eslint": "3.0.1"
+  }
+}
